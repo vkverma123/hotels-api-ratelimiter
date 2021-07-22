@@ -1,0 +1,5 @@
+com/hotels/web/api/context/CityApiRateLimiterUnitTests.class
+com/hotels/web/api/mapper/HotelResponseDataModelMapperUnitTests.class
+com/hotels/web/api/controller/HotelsControllerUnitTests.class
+com/hotels/web/api/context/RoomApiRateLimiterUnitTests.class
+com/hotels/web/api/integration/HotelsControllerDevIntegrationTest.class

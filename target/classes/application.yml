@@ -1,0 +1,15 @@
+hotelDb:
+    uri: "src/main/resources/static/hoteldb.csv"
+
+# Swagger Documentation
+swagger:
+    service:
+        version: "1.0.0"
+        title: "Hotels Web Api"
+        description: "A service that provides APIs for Hotels Service"
+        termsPath: ""
+        contact:
+            name: "Vivek"
+            email: "yovivekverma@gmail.com"
+        licencePath: "#"
+        licenceType: ""

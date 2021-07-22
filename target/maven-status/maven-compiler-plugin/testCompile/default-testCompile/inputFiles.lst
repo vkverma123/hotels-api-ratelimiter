@@ -1,0 +1,5 @@
+/Users/vivek/Desktop/hotels-api-ratelimiter/src/test/java/com/hotels/web/api/controller/HotelsControllerUnitTests.java
+/Users/vivek/Desktop/hotels-api-ratelimiter/src/test/java/com/hotels/web/api/context/CityApiRateLimiterUnitTests.java
+/Users/vivek/Desktop/hotels-api-ratelimiter/src/test/java/com/hotels/web/api/mapper/HotelResponseDataModelMapperUnitTests.java
+/Users/vivek/Desktop/hotels-api-ratelimiter/src/test/java/com/hotels/web/api/context/RoomApiRateLimiterUnitTests.java
+/Users/vivek/Desktop/hotels-api-ratelimiter/src/test/java/com/hotels/web/api/integration/HotelsControllerDevIntegrationTest.java
