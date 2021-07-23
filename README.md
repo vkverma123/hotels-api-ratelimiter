@@ -46,6 +46,15 @@ I have also added integration tests and unit tests.
 
 Please refer snapshots in snapshots directory.
 
+https://github.com/vkverma123/hotels-api-ratelimiter/blob/master/snapshots/Screen%20Shot%202564-07-22%20at%2022.38.16.png
+https://github.com/vkverma123/hotels-api-ratelimiter/blob/master/snapshots/Screen%20Shot%202564-07-22%20at%2022.38.33.png
+https://github.com/vkverma123/hotels-api-ratelimiter/blob/master/snapshots/Screen%20Shot%202564-07-22%20at%2022.39.37.png
+https://github.com/vkverma123/hotels-api-ratelimiter/blob/master/snapshots/Screen%20Shot%202564-07-22%20at%2022.40.09.png
+https://github.com/vkverma123/hotels-api-ratelimiter/blob/master/snapshots/Screen%20Shot%202564-07-22%20at%2022.40.21.png
+https://github.com/vkverma123/hotels-api-ratelimiter/blob/master/snapshots/Screen%20Shot%202564-07-22%20at%2023.10.44.png
+https://github.com/vkverma123/hotels-api-ratelimiter/blob/master/snapshots/Screen%20Shot%202564-07-22%20at%2023.11.06.png
+
+
 ## A Sample Successful Response.
 
 `
@@ -122,6 +131,4 @@ Please refer snapshots in snapshots directory.
 "message": "Success"
 }
 `
-
-https://github.com/vkverma123/hotels-api-ratelimiter/blob/master/snapshots/Screen%20Shot%202564-07-22%20at%2022.38.16.png
 
