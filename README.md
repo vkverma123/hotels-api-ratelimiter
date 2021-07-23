@@ -123,3 +123,5 @@ Please refer snapshots in snapshots directory.
 }
 `
 
+https://github.com/vkverma123/hotels-api-ratelimiter/blob/master/snapshots/Screen%20Shot%202564-07-22%20at%2022.38.16.png
+
