@@ -6,6 +6,7 @@ Hotel API Rate limit is a Java based spring boot service that is created to prov
 API contracts are :
 
 GET /city/{cityName}?sortOption=ASC
+
 GET /room/{roomType}?sortOption=DESC
 
 I have used the standard sliding window Algorithm to implement the Rate limit feature.
